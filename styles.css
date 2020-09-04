@@ -1,0 +1,54 @@
+<style type="text/css">
+ 
+ *{
+   margin: 0px;
+}
+
+.title{
+	color:blue;
+}
+
+h1{
+ text-align: center;
+ color:deeppink;
+
+}
+
+
+header{
+
+font-family: 'Dokdo', cursive;
+font-size: 30px;
+padding: 20px;
+}
+main{
+      margin-left: 100px;
+      width: 100%;
+      margin-top: 35px;
+}
+.box{
+ width: 20%;
+ float: left;
+ padding: 7px;
+ padding-left: 10px;  
+ display: block;
+
+}
+
+img{
+  width: 250px;
+  height: 250px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+img:hover{
+  transform: scale(1.6,1.6);
+  transition: .3s transform;
+
+}
+
+
+</style>
